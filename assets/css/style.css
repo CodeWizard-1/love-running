@@ -149,13 +149,13 @@ main {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
     }
-    /* Hero */
-    #cover-text{
+    /* Hero  image*/
+    #cover-text {
         width: 300px;
         right: 50px;
     }
 }
-/* Large devaces (leptops and desktops, 992px and up ) */
+/* Large devices (leptops and desktops, 992px and up ) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
